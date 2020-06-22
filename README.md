@@ -1,2 +1,2 @@
 # Intro-to-Python-Visualization
-Introduction to Visualization with Matplotlib, Seaborn, Plotly and Altair in a Jupyter notebook
+a notebook created for teammates new to visualization in Python using Matplotlib, Seaborn, Plotly and Altair
